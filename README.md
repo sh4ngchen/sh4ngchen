@@ -1,6 +1,6 @@
 ## @sh4ngchen
 
-**上辰** or sCh3n
+**上辰** or **sCh3n**
 
 CTFer of **X1cT34m** | **SU**
 
