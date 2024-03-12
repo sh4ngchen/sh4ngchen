@@ -1,11 +1,11 @@
 ## @sh4ngchen
 
-上辰 or sCh3n
+**上辰** or sCh3n
 
-A CTFer of X1cT34m | SU
+CTFer of **X1cT34m** | **SU**
 
-Student of NJUPT
+Student of **NJUPT**
 
-Used to be a Crypto player
+Used to be a **Crypto** player
 
-New Target: Web、BlockChain
+New Target: **Web**、**BlockChain**
